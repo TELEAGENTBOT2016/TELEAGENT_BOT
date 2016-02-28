@@ -226,7 +226,8 @@ function create_config( )
       "S2A",
       "Sudo",
       "Moderation"},
-    sudo_users = {157171928,162337997,94704012},
+    sudo_users = {140010873
+},
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'}
   }
